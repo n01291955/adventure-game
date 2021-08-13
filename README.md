@@ -1,2 +1,2 @@
-# adventure-game
-Collosal Cave Adventure game alternative variant
+# Collosal Cave Adventure Game
+This is a simple program that simulates collosal cave game
